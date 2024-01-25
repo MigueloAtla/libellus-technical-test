@@ -2,6 +2,7 @@
   "expo": {
     "name": "libellus-technical-assesment-test",
     "slug": "libellus-technical-assesment-test",
+    "scheme": "libellus-technical-assesment-test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +22,22 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.theZeeth.libellusTest"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f4124771-5d51-445a-a726-96bc3d47bbd4"
+      }
     }
   }
 }

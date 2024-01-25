@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Meeting with Team",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac justo vitae lacus fringilla tincidunt. Ut vitae quam vel justo consectetur ullamcorper. Aliquam erat volutpat. Sed id hendrerit nunc. Integer et ex vel dolor venenatis pharetra eu at mauris. Vivamus aliquet, tortor a dapibus euismod, elit dolor scelerisque purus, in tristique justo elit eu urna.",
+      "startTime": "2024-01-16T09:00:00",
+      "endTime": "2024-01-16T10:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Coding Session",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac justo vitae lacus fringilla tincidunt. Ut vitae quam vel justo consectetur ullamcorper. Aliquam erat volutpat. Sed id hendrerit nunc. Integer et ex vel dolor venenatis pharetra eu at mauris. Vivamus aliquet, tortor a dapibus euismod, elit dolor scelerisque purus, in tristique justo elit eu urna.",
+      "startTime": "2024-01-16T10:30:00",
+      "endTime": "2024-01-16T12:30:00"
+    },
+    {
+      "id": 3,
+      "name": "Lunch Break",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac justo vitae lacus fringilla tincidunt. Ut vitae quam vel justo consectetur ullamcorper. Aliquam erat volutpat. Sed id hendrerit nunc. Integer et ex vel dolor venenatis pharetra eu at mauris. Vivamus aliquet, tortor a dapibus euismod, elit dolor scelerisque purus, in tristique justo elit eu urna.",
+      "startTime": "2024-01-16T12:30:00",
+      "endTime": "2024-01-16T13:30:00"
+    },
+    {
+      "id": 4,
+      "name": "Project Review",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac justo vitae lacus fringilla tincidunt. Ut vitae quam vel justo consectetur ullamcorper. Aliquam erat volutpat. Sed id hendrerit nunc. Integer et ex vel dolor venenatis pharetra eu at mauris. Vivamus aliquet, tortor a dapibus euismod, elit dolor scelerisque purus, in tristique justo elit eu urna.",
+      "startTime": "2024-01-16T14:00:00",
+      "endTime": "2024-01-16T15:30:00"
+    },
+    {
+      "id": 5,
+      "name": "Training Session",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac justo vitae lacus fringilla tincidunt. Ut vitae quam vel justo consectetur ullamcorper. Aliquam erat volutpat. Sed id hendrerit nunc. Integer et ex vel dolor venenatis pharetra eu at mauris. Vivamus aliquet, tortor a dapibus euismod, elit dolor scelerisque purus, in tristique justo elit eu urna.",
+      "startTime": "2024-01-16T16:00:00",
+      "endTime": "2024-01-16T17:30:00"
+    }
+  ]
+}
